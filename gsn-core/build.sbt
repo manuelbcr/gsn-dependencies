@@ -22,7 +22,7 @@ libraryDependencies ++= Seq(
   "org.hibernate" % "hibernate-core" % "3.6.10.Final",
   "org.apache.httpcomponents" % "httpclient" % "4.3.2",
   "org.apache.commons" % "commons-email" % "1.3.2",
-  "commons-collections" % "commons-collections" % "3.2.1",
+  "commons-collections" % "commons-collections" % "3.2.2",
   "commons-io" % "commons-io" % "2.4",
   "org.apache.logging.log4j" % "log4j-api" % "2.3.1",
   "org.apache.logging.log4j" % "log4j-core" % "2.3.1",
