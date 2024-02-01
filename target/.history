@@ -1,0 +1,9 @@
+project services
+clean
+reload
+compile
+sudo systemctl stop gsn-services
+project core
+compile
+project services
+clean

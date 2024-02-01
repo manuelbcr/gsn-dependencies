@@ -1,0 +1,16 @@
+2024-01-16 17:59:28,887 [WARN] from application in pool-20-thread-5 - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+2024-01-16 17:59:35,725 [INFO] from play.api.db.DefaultDBApi in pool-20-thread-5 - Database [default] initialized at jdbc:h2:file:/tmp/GsnAuthDb
+2024-01-16 17:59:35,749 [INFO] from application in pool-20-thread-5 - Creating Pool for datasource 'default'
+2024-01-16 17:59:42,612 [INFO] from application in pool-20-thread-5 - Application has started
+2024-01-16 17:59:44,341 [WARN] from com.mchange.v2.c3p0.cfg.C3P0Config in pool-20-thread-5 - named-config with name 'gsn' does not exist. Using default-config.
+2024-01-16 17:59:44,349 [WARN] from com.mchange.v2.c3p0.cfg.C3P0Config in pool-20-thread-5 - named-config with name 'gsn' does not exist. Using default-config extensions.
+2024-01-16 17:59:47,426 [DEBUG] from application in pool-20-thread-5 - Registered AuthProvider 'password'
+2024-01-16 17:59:47,735 [DEBUG] from application in pool-20-thread-5 - Registered AuthProvider 'openid'
+2024-01-16 17:59:47,981 [INFO] from play.api.http.EnabledFilters in pool-20-thread-5 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2024-01-16 17:59:47,997 [INFO] from play.api.Play in pool-20-thread-5 - Application started (Dev)
+2024-01-16 17:59:48,092 [INFO] from application in pool-20-thread-5 - Application terminated
