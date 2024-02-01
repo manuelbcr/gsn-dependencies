@@ -29,7 +29,7 @@ libraryDependencies ++= Seq(
   "org.apache.logging.log4j" % "log4j-slf4j-impl" % "2.3.1",
   "org.apache.logging.log4j" % "log4j-web" % "2.3.1",
   "net.sf.opencsv" % "opencsv" % "2.3",
-  "com.thoughtworks.xstream" % "xstream" % "1.4.5",
+  "com.thoughtworks.xstream" % "xstream" % "1.4.18",
   "org.antlr" % "stringtemplate" % "3.0",
   "commons-lang" % "commons-lang" % "2.6",
   "rome" % "rome" % "1.0",
